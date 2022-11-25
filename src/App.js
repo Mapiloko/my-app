@@ -1,6 +1,6 @@
 import './App.css';
 // import React, {useEffect, useRef, useState } from 'react';
-import LockScreen from './LockScreen';
+import Captured from './Captured';
 // import {idbRequest} from './store'
 
 // import {idbRequest} from './store'
@@ -95,7 +95,7 @@ function App() {
 
   return (
     <div>
-      <LockScreen></LockScreen>
+      <Captured></Captured>
       
       {/* { viewer? <Viewer></Viewer> : captured ? <Captured setView={()=> setViewer(true) } >{counter}</Captured> :
        <div className='camera' >
