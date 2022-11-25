@@ -1,6 +1,5 @@
 import './App.css';
 // import React, {useEffect, useRef, useState } from 'react';
-import Captured from './Captured';
 // import {idbRequest} from './store'
 
 // import {idbRequest} from './store'
