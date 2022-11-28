@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      <p>This is test sentense</p>
+      <p>This is test sentense/p>
       <p>This is test sentense</p>
       <p>This is test sentense</p>
       <p>This is test sentense</p>
