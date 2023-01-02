@@ -1,12 +1,12 @@
 import './App.css';
 // import o9n from "o9n";
-import {  useState } from 'react';
+import React, {  useState } from 'react';
 
 
 
 function LockScreen() {
   const [orientatn, setOrientation] = useState("portrait");
-  const [ori, setOri] = useState(false);
+  // const [ori, setOri] = useState(false);
 
   const isLandscape = true
 
